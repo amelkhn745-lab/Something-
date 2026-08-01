@@ -89,9 +89,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const typeWriterLines = [
-        "AKu punya sesuatu yang pengen aku sampein ke kamu...",
-        "Aku harap setelah ini kita tetep bisa baik-baik aja...",
-        "Dan tetep temenan seperti biasa...",
+        "AKu punya sesuatu yang pengen dedee sampein ke kakka :p",
+        "Uhm...",
+        "Duh grogi dedee",
         "i just want to say..."
     ];
     let currentLineIndex = 0;
