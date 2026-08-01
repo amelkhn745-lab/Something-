@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const btnStep2 = document.getElementById('btn-step-2');
         btnStep2.style.display = 'inline-block';
 
-        const startDate = new Date('2025-09-16T00:00:00');
+        const startDate = new Date('2025-07-16T00:00:00');
 
         function updateCounter() {
             const now = new Date();
@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnChat = document.getElementById('btn-chat');
     if (btnChat) {
         btnChat.addEventListener('click', () => {
-            const chatLink = "https://wa.me/6281234567890";
+            const chatLink = "https://t.me/@zcbrta";
             window.open(chatLink, "_blank");
         });
     }
@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnChatFriends = document.getElementById('btn-chat-friends');
     if (btnChatFriends) {
         btnChatFriends.addEventListener('click', () => {
-            const chatLink = "https://wa.me/6281234567890";
+            const chatLink = "https://t.me/@zcbrta";
             window.open(chatLink, "_blank");
         });
     }
