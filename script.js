@@ -89,10 +89,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const typeWriterLines = [
-        "AKu punya sesuatu yang pengen dedee sampein ke kakka :p",
+        "Dedee punya sesuatu yang pengen dedee sampein ke kakka :p",
         "Uhm...",
         "Duh grogi dedee",
-        "i just want to say..."
+        "I just want to say..."
     ];
     let currentLineIndex = 0;
     let typeWriterInterval = null;
