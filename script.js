@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnChatFriends = document.getElementById('btn-chat-friends');
     if (btnChatFriends) {
         btnChatFriends.addEventListener('click', () => {
-            const chatLink = "https://t.me/@zcbrta";
+            const chatLink = "https://t.me/@zckdra";
             window.open(chatLink, "_blank");
         });
     }
